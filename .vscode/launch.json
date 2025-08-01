@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HCFAndLCM",
+            "request": "launch",
+            "mainClass": "HCFAndLCM",
+            "projectName": "java-dsa-series_6bac91b9"
+        },
+        {
+            "type": "java",
             "name": "MultiplyOfNumbers",
             "request": "launch",
             "mainClass": "MultiplyOfNumbers",
