@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "simpleInterest",
+            "request": "launch",
+            "mainClass": "simpleInterest",
+            "projectName": "java-dsa-series_6bac91b9"
+        },
+        {
+            "type": "java",
             "name": "nameInput",
             "request": "launch",
             "mainClass": "nameInput",
