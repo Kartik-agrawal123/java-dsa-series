@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "primeNumber",
+            "request": "launch",
+            "mainClass": "primeNumber",
+            "projectName": "java-dsa-series_6bac91b9"
+        },
+        {
+            "type": "java",
             "name": "largestAmongThree",
             "request": "launch",
             "mainClass": "largestAmongThree",
