@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MultiplyOfNumbers",
+            "request": "launch",
+            "mainClass": "MultiplyOfNumbers",
+            "projectName": "java-dsa-series_6bac91b9"
+        },
+        {
+            "type": "java",
             "name": "sumOfTwo",
             "request": "launch",
             "mainClass": "sumOfTwo",
