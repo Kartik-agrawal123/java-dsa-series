@@ -1,0 +1,15 @@
+//Subtract the Product and Sum of Digits of an Integer
+int subtractProductAndSum(int n) {
+        int prod = 1;
+        int sum = 0;
+        while(n>0){
+            int val = n%10;
+            sum = sum + val;
+            prod = prod * val;
+            n = n/10;
+        }
+        int diff = prod -sum;
+        return diff;
+
+        
+    }
