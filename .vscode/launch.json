@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "findLargeFromInput",
+            "request": "launch",
+            "mainClass": "findLargeFromInput",
+            "projectName": "java-dsa-series_6bac91b9"
+        },
+        {
+            "type": "java",
             "name": "factorsOfANumber",
             "request": "launch",
             "mainClass": "factorsOfANumber",
