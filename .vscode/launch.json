@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "largestAmongThree",
+            "request": "launch",
+            "mainClass": "largestAmongThree",
+            "projectName": "java-dsa-series_6bac91b9"
+        },
+        {
+            "type": "java",
             "name": "listOfNumbers",
             "request": "launch",
             "mainClass": "listOfNumbers",
