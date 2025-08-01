@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "oddEven",
+            "request": "launch",
+            "mainClass": "oddEven",
+            "projectName": "java-dsa-series_6bac91b9"
+        },
+        {
+            "type": "java",
             "name": "userEnter",
             "request": "launch",
             "mainClass": "userEnter",
