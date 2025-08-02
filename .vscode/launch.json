@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sumOfRunningArray",
+            "request": "launch",
+            "mainClass": "sumOfRunningArray",
+            "projectName": "java-dsa-series_6bac91b9"
+        },
+        {
+            "type": "java",
             "name": "concateOfArray",
             "request": "launch",
             "mainClass": "concateOfArray",
