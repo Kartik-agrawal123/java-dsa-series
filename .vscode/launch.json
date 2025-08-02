@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "shuffleTheArray",
+            "request": "launch",
+            "mainClass": "shuffleTheArray",
+            "projectName": "java-dsa-series_6bac91b9"
+        },
+        {
+            "type": "java",
             "name": "richestCustomerWealth",
             "request": "launch",
             "mainClass": "richestCustomerWealth",
