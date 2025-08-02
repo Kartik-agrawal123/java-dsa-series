@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "numberOfGoodPairs",
+            "request": "launch",
+            "mainClass": "numberOfGoodPairs",
+            "projectName": "java-dsa-series_6bac91b9"
+        },
+        {
+            "type": "java",
             "name": "kidsCandies",
             "request": "launch",
             "mainClass": "kidsCandies",
