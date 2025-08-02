@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "permutationOfArray",
+            "request": "launch",
+            "mainClass": "permutationOfArray",
+            "projectName": "java-dsa-series_6bac91b9"
+        },
+        {
+            "type": "java",
             "name": "primeNumber",
             "request": "launch",
             "mainClass": "primeNumber",
