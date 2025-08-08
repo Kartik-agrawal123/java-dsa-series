@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "checkPanagramString",
+            "request": "launch",
+            "mainClass": "checkPanagramString",
+            "projectName": "java-dsa-series_6bac91b9"
+        },
+        {
+            "type": "java",
             "name": "targetArray",
             "request": "launch",
             "mainClass": "targetArray",
