@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "highestAltitude",
+            "request": "launch",
+            "mainClass": "highestAltitude",
+            "projectName": "java-dsa-series_6bac91b9"
+        },
+        {
+            "type": "java",
             "name": "matchingArule",
             "request": "launch",
             "mainClass": "matchingArule",
