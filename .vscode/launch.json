@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "evenNumberOfDigits",
+            "request": "launch",
+            "mainClass": "evenNumberOfDigits",
+            "projectName": "java-dsa-series_6bac91b9"
+        },
+        {
+            "type": "java",
             "name": "flippingImage",
             "request": "launch",
             "mainClass": "flippingImage",
