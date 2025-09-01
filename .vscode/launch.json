@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "twoSum",
+            "request": "launch",
+            "mainClass": "twoSum",
+            "projectName": "java-dsa-series_6bac91b9"
+        },
+        {
+            "type": "java",
+            "name": "transposeMatrix",
+            "request": "launch",
+            "mainClass": "transposeMatrix",
+            "projectName": "java-dsa-series_6bac91b9"
+        },
+        {
+            "type": "java",
+            "name": "matrixDiagonalSum",
+            "request": "launch",
+            "mainClass": "matrixDiagonalSum",
+            "projectName": "java-dsa-series_6bac91b9"
+        },
+        {
+            "type": "java",
             "name": "countOddValues",
             "request": "launch",
             "mainClass": "countOddValues",
