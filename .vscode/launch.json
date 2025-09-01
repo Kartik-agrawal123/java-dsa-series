@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "countOddValues",
+            "request": "launch",
+            "mainClass": "countOddValues",
+            "projectName": "java-dsa-series_6bac91b9"
+        },
+        {
+            "type": "java",
+            "name": "arrayFormInteger",
+            "request": "launch",
+            "mainClass": "arrayFormInteger",
+            "projectName": "java-dsa-series_6bac91b9"
+        },
+        {
+            "type": "java",
             "name": "evenNumberOfDigits",
             "request": "launch",
             "mainClass": "evenNumberOfDigits",
